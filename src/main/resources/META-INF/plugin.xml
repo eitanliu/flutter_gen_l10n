@@ -26,6 +26,9 @@
     <!-- Extension points defined by the plugin.
          Read more: https://plugins.jetbrains.com/docs/intellij/plugin-extension-points.html -->
     <extensions defaultExtensionNs="com.intellij">
-
+        <intentionAction>
+            <className>com.eitanliu.flutter.gen_l10n.actions.ExtractStringAction</className>
+            <category>Extract to ARB files</category>
+        </intentionAction>
     </extensions>
 </idea-plugin>

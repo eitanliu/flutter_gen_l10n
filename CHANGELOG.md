@@ -1,6 +1,6 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# Flutter Gen-l10n Changelog
+# Flutter Gen-L10n Changelog
 
 ## [1.0.0]
 
